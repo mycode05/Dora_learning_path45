@@ -21,18 +21,18 @@ This guide is ideal for **beginners**, **school students**, or anyone looking fo
 
 ## 🗂️ Weekly Curriculum Breakdown
 
-| Week | Days       | Topics                             | Duration | Assignment Title                  | Description                                    |
-|------|------------|-------------------------------------|----------|-----------------------------------|------------------------------------------------|
-| 1    | Day 1-3     | HTML Basics                        | 2 hrs    | Dora’s Backpack Checklist        | Create a checklist using HTML                  |
-|      | Day 4-6     | CSS Basics                         | 3 hrs    | Style Dora’s Backpack Checklist  | Add styling using CSS                          |
-| 2    | Day 7-9     | Flexbox & CSS Grid                 | 3 hrs    | Jungle Adventure Map             | Design layout using Flexbox & Grid             |
-|      | Day 10-13   | Final Project                      | 4 hrs    | Explorer’s Homepage              | Structured & styled homepage                   |
-| 3    | Day 14-16   | JavaScript Fundamentals            | 4 hrs    | Swiper Alert                     | Alert and event basics with JS                 |
-|      | Day 17-19   | DOM Manipulation & Events          | 3 hrs    | Map’s Magic Greeting             | Interactive button using DOM                   |
-|      | Day 20-22   | Final Project                      | 5 hrs    | Dora’s Jungle To-Do List         | To-do list using DOM methods                   |
-| 4    | Day 23-25   | JavaScript Advanced (ES6)          | 4 hrs    | Swiper’s Shopping List           | Arrays and ES6 syntax                          |
-|      | Day 26-28   | Responsive Design                  | 3 hrs    | Responsive Jungle Map            | Make layout responsive                         |
-|      | Day 29-31   | Final Project                      | 5 hrs    | Adventure Landing Page           | Responsive animated landing page               |
+| Days       | Topics                             | Duration | Assignment Title                  | Description                                    |
+|------------|-------------------------------------|----------|-----------------------------------|------------------------------------------------|
+| Day 1-3     | HTML Basics                        | 2 hrs    | Dora’s Backpack Checklist        | Create a checklist using HTML                  |
+| Day 4-6     | CSS Basics                         | 3 hrs    | Style Dora’s Backpack Checklist  | Add styling using CSS                          |
+| Day 7-9     | Flexbox & CSS Grid                 | 3 hrs    | Jungle Adventure Map             | Design layout using Flexbox & Grid             |
+| Day 10-13   | Final Project                      | 4 hrs    | Explorer’s Homepage              | Structured & styled homepage                   |
+| Day 14-16   | JavaScript Fundamentals            | 4 hrs    | Swiper Alert                     | Alert and event basics with JS                 |
+| Day 17-19   | DOM Manipulation & Events          | 3 hrs    | Map’s Magic Greeting             | Interactive button using DOM                   |
+| Day 20-22   | Final Project                      | 5 hrs    | Dora’s Jungle To-Do List         | To-do list using DOM methods                   |
+| Day 23-25   | JavaScript Advanced (ES6)          | 4 hrs    | Swiper’s Shopping List           | Arrays and ES6 syntax                          |
+| Day 26-28   | Responsive Design                  | 3 hrs    | Responsive Jungle Map            | Make layout responsive                         |
+| Day 29-31   | Final Project                      | 5 hrs    | Adventure Landing Page           | Responsive animated landing page               |
 
 ---
 
