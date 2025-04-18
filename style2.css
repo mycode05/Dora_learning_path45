@@ -75,4 +75,27 @@ body {
     font-size: 0.95em;
     color: #2e7d32;
   }
+/* Swiper Alert Button Section */
+.swiper-alert {
+    text-align: center;
+    margin: 30px 0;
+  }
   
+  .swiper-alert button {
+    background-color: #e53935; /* Red alert! */
+    color: white;
+    font-size: 1.2em;
+    padding: 12px 24px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+    transition: background-color 0.3s ease, transform 0.2s ease;
+  }
+  
+  .swiper-alert button:hover {
+    background-color: #fdd835; /* Yellow hover */
+    color: #000;
+    transform: scale(1.05);
+  }
+    
