@@ -1,0 +1,66 @@
+/* General Page Styling */
+body {
+    font-family: 'Comic Neue', sans-serif;
+    background-color: #fff3cd; /* pastel yellow */
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-height: 100vh;
+  }
+  
+  /* Header Styling */
+  header h1 {
+    text-align: center;
+    font-size: 2.5rem;
+    font-weight: bold;
+    color: #6a1b9a;
+    margin-top: 30px;
+  }
+  
+  /* Instructions Styling */
+  .instructions {
+    margin-top: 20px;
+    font-size: 1.2rem;
+    color: #4e342e;
+    padding: 0 20px;
+    text-align: center;
+  }
+  
+  /* Checklist Container Styling */
+  .checklist-container {
+    background-color: #ffffff;
+    padding: 20px 30px;
+    border: 3px dashed #6a1b9a;
+    border-radius: 10px;
+    margin-top: 30px;
+    width: 80%;
+    max-width: 500px;
+  }
+  
+  /* Checklist Items */
+  .checklist {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .checklist li {
+    font-size: 1.2rem;
+    margin: 10px 0;
+    color: #00796b;
+    display: flex;
+    align-items: center;
+  }
+  
+  /* Checkbox Styling */
+  .checklist input[type="checkbox"] {
+    transform: scale(1.3);
+    margin-right: 10px;
+    cursor: pointer;
+  }
+  
+  .checklist li:hover {
+    color: #d84315;
+  }
+  
