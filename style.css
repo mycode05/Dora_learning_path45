@@ -63,4 +63,67 @@ body {
   .checklist li:hover {
     color: #d84315;
   }
+  body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: #f0fdf4;
+    color: #333;
+  }
   
+  h1 {
+    text-align: center;
+    color: #2e7d32;
+    margin-bottom: 30px;
+  }
+  
+  .map-container {
+    display: flex;
+    gap: 20px;
+    padding: 20px;
+    border: 2px solid #a5d6a7;
+    background-color: #ffffff;
+    border-radius: 12px;
+    max-width: 900px;
+    margin: auto;
+  }
+  
+  .left-column,
+  .right-column {
+    flex: 1;
+    padding: 15px;
+    border: 1px solid #81c784;
+    background-color: #e8f5e9;
+    border-radius: 8px;
+  }
+  
+  .left-column img {
+    width: 100%;
+    border-radius: 8px;
+  }
+  
+  .right-column h2 {
+    margin-bottom: 15px;
+    color: #1b5e20;
+  }
+  
+  .locations-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 15px;
+  }
+  
+  .location {
+    padding: 10px;
+    background-color: #c8e6c9;
+    border-radius: 6px;
+    text-align: center;
+    transition: all 0.3s ease;
+    cursor: pointer;
+  }
+  
+  .location:hover {
+    background-color: #a5d6a7;
+    text-decoration: underline;
+  }
+    
