@@ -14,7 +14,6 @@ Dora’s Learning Path is designed to walk you through the foundational and inte
 - Interactive tutorials
 - Themed assignments
 - Final projects for every week
-- Integration with certification paths via Infosys Springboard
 
 This guide is ideal for **beginners**, **school students**, or anyone looking for a **fun, gamified approach** to learning web technologies.
 
