@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Swiper’s Shopping List</title>
+  <link rel="stylesheet" href="swiper_styles.css" />
+</head>
+<body>
+  <header>
+    <h1>🛍️ Swiper’s Shopping List</h1>
+  </header>
+
+  <section class="instructions">
+    <p>Swiper needs your help to organize his shopping list! Use the interactive features to sort, filter, and customize his items. ✨</p>
+  </section>
+
+  <section class="controls">
+    <button id="sortBtn">Sort Alphabetically</button>
+    <button id="filterFruits">Show Fruits</button>
+    <button id="filterDairy">Show Dairy</button>
+    <button id="showAll">Show All</button>
+  </section>
+
+  <section class="add-item">
+    <input type="text" id="newItemName" placeholder="Item name" />
+    <select id="newItemCategory">
+      <option value="Fruit">Fruit</option>
+      <option value="Dairy">Dairy</option>
+      <option value="Other">Other</option>
+    </select>
+    <button id="addBtn">Add Item</button>
+  </section>
+
+  <ul id="shoppingList"></ul>
+
+  <footer>
+    <p>Made for Swiper's shopping spree by [Ruthala Sai Jyotsna] 🦊</p>
+  </footer>
+
+  <script src="swiper.js"></script>
+</body>
+</html>
