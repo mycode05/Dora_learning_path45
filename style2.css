@@ -98,4 +98,58 @@ body {
     color: #000;
     transform: scale(1.05);
   }
-    
+  /* Map's Magic Greeting */
+.map-greeting {
+  text-align: center;
+  margin: 40px auto;
+  background-color: #e1f5fe;
+  padding: 30px;
+  border-radius: 15px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  width: 80%;
+  max-width: 500px;
+}
+
+.map-greeting h2 {
+  color: #3949ab;
+  margin-bottom: 20px;
+}
+
+.map-greeting input {
+  padding: 10px;
+  width: 70%;
+  font-size: 1em;
+  border: 2px solid #64b5f6;
+  border-radius: 8px;
+  margin-bottom: 10px;
+}
+
+.map-greeting button {
+  background-color: #fbc02d;
+  color: #000;
+  font-weight: bold;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: 0.3s ease;
+}
+
+.map-greeting button:hover {
+  background-color: #ffeb3b;
+  transform: scale(1.05);
+}
+
+#greetingMessage {
+  margin-top: 20px;
+  font-size: 1.5em;
+  font-weight: bold;
+  color: #d81b60;
+  animation: fadeIn 1s ease-in-out;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(10px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+  
