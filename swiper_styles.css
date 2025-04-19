@@ -1,0 +1,53 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #fff3e0;
+  padding: 20px;
+  margin: 0;
+}
+
+header, .instructions {
+  text-align: center;
+}
+
+header h1 {
+  color: #e65100;
+}
+
+.controls, .add-item {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  margin: 15px auto;
+  flex-wrap: wrap;
+}
+
+input, select, button {
+  padding: 10px;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+}
+
+button {
+  background-color: #ff9800;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #fb8c00;
+}
+
+ul {
+  max-width: 600px;
+  margin: 0 auto;
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  background-color: #ffe0b2;
+  padding: 10px;
+  margin: 5px 0;
+  border-radius: 8px;
+}
