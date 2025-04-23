@@ -10,11 +10,6 @@ Welcome to **Dora's Learning Path**, a playful and structured guide for learning
 
 > “Explore and learn with Dora! 🌟”
 
-Dora’s Learning Path is designed to walk you through the foundational and intermediate web development skills using:
-- Interactive tutorials
-- Themed assignments
-- Final projects for every week
-
 This guide is ideal for **beginners**, **school students**, or anyone looking for a **fun, gamified approach** to learning web technologies.
 
 ---
